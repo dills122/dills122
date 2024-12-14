@@ -2,8 +2,10 @@
 
 Software Engineer specializing in the Fintech industry.
 
+**Currently on the job hunt if anyone has any leads, let me know!**
+
 - 🌱 Currently learning Go & Infastructure as Code (Terraform)
-- 🎓 BS in Computer Science & currently studying a BA in Finance & Accounting.
+- 🎓 BS in Computer Science
 - 💬 Lets nerd out about DeFi
 - ⚡ Fun fact: My favorite game is osrs, if you know you know.
 
