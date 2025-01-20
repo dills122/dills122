@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Software Engineer specializing in the Fintech industry.
+Software Engineer with extensive experience across the stack, specializing in Fintech.
 
-**Currently on the job hunt if anyone has any leads, let me know!**
-
-- 🌱 Currently learning Go & Infastructure as Code (Terraform)
+- 🌱 Currently bolstering my Angular skills & digging deep into TypeScript's type system
 - 🎓 BS in Computer Science
 - 💬 Lets nerd out about DeFi
 - ⚡ Fun fact: My favorite game is osrs, if you know you know.
