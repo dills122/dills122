@@ -42,3 +42,5 @@ Software engineer building scalable systems in fintech and beyond. Frontend-lean
 Public key:
 [MIT](https://pgp.mit.edu/pks/lookup?op=get&search=0xD648D76C6D77AE7A) ·
 [OpenPGP](https://keys.openpgp.org/search?q=dylansteele57%40gmail.com)
+[Mailvelope](https://keys.mailvelope.com/pks/lookup?op=get&search=dylansteele57@gmail.com)
+[Ubuntu](https://keyserver.ubuntu.com/pks/lookup?search=dylansteele57%40gmail.com&fingerprint=on&op=index)
